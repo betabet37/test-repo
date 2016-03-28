@@ -1,4 +1,4 @@
 files:
    - 
-      source: 123
+      source: /**/*.*
       translation:
